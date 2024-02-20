@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/3OiY4.gif" width="600" alt="Moinuddin Hello Gif">
+<h1 align="center">Hi 👋, I'm Muhammad Moinuddin !</h1>
 <h3 align="center">A Passionate Web Developer | MERN Stack Explorer | Crafting Innovations with Code</h3>
 
 
