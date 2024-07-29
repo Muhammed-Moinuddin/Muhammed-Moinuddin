@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer | MERN Stack Explorer | Crafting Innovations with Code</h3>
 
 
-- 🌱 I’m currently learning **Next.js, D3.js**
+- 🌱 I’m currently learning **MERN and Cloud Native technologies**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -11,6 +11,14 @@
 - 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **moinuddinilyas786@gmail.com**
+
+- :rocket: Below are my awesome Layer5 badges.
+
+   <a href= "https://meshery.layer5.io/user/dce018e4-dde0-4937-931f-b62de3fd5d42?tab=badges">
+    <img width="124px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
+    <img width="124px" src = "https://badges.layer5.io/assets/badges/code-cleanup-crew/code-cleanup-crew.png" alt = "Code Cleanup Crew" />
+    <img width="124px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
 
 <h3 align="left">Find me:</h3>
 
