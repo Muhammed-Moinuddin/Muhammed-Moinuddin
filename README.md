@@ -6,11 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 Check-out my Portfolio: [https://muhammed-moinuddin.github.io/](https://muhammed-moinuddin.github.io/)
-
 - 💬 Ask me about **Javascript, React**
-
-- 📫 How to reach me **moinuddinilyas786@gmail.com**
 
 - :rocket: Below are my awesome Layer5 badges.
 
